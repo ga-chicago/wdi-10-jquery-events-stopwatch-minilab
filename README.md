@@ -22,14 +22,6 @@ You'll be building a stopwatch this morning. You have been given some html and c
 
 1. Using `setInterval`, make it so that the stopwatch will run! The timer should count in seconds.
 
-## Setup
-
-1. Navigate to your `student_examples` folder.
-2. From inside your `student_examples` folder for today, create a directory called `stopwatch_practice`.
-3. Navigate inside the `stopwatch_practice` folder and copy the stopwatch files which are located in the `stopwatch` directory in today's `morning_exercise` folder.
-Ex: `cp -r ../../morning_exercise/stopwatch .`
-4. Open the `index.html` in your **browser**.
-5. Open the `app.js` file in your **text editor**
 
 ## Resources
 
