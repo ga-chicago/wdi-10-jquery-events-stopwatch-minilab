@@ -6,7 +6,7 @@
 
 Title: Stopwatch<br>
 Type: morning exercise <br>
-Duration: 45 - 60 mins<br>
+Duration: 30-40 mins<br>
 Modified by: Kristyn Bryan
 Topics: jQuery, event handlers, setInterval<br>
 
