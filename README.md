@@ -1,15 +1,17 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR-Gizmo
+# wdi-10-chi
 
 ---
 
 Title: Stopwatch<br>
-Type: morning exercise <br>
+Type: Exercise/quick lab <br>
 Duration: 30-40 mins<br>
 Modified by: Kristyn Bryan
 Topics: jQuery, event handlers, setInterval<br>
 
+---
+![Worf doing battle](https://borgdotcom.files.wordpress.com/2014/08/worf-batleth-from-firstborn.jpg)
 ---
 
 # Stopwatch
